@@ -513,7 +513,7 @@ maxHeightPixels 128:128:16
 	type bigBed 6 .
 	group GSE41605
 	priority 1
-	bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/MIE-ENH/master/FJ616285.1/GSE41605/ORFs-GSE41605.bb
+	bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/GSE41605/ORFs-GSE41605.bb
 	longLabel ORFs identified in Decoding HCMV Using Ribosome Profiling (GSE41605)
 	shortLabel Identified ORFs
 	visibility hide
