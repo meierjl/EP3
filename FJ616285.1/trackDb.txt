@@ -500,8 +500,617 @@ altColor 34,34,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
-	
+
 #############
+	 
+track IE2F-Ctrl
+compositeTrack on
+type bigWig 0 1000
+priority 7
+visibility full
+shortLabel Exp3 96h D-NT2 IE2F Ctrl
+longLabel IE2F Ctrl
+	 
+track IE2F-Ctrl_FW
+parent IE2F-Ctrl
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp3/IE2F-No-Flavo-Ctrl-dedup-FW-FJ616285.1.bw
+longLabel Exp3 96h D-NT2 IE2F Ctrl
+shortLabel Exp3 96h D-NT2 IE2F Ctrl
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track IE2F-Ctrl_RV
+parent IE2F-Ctrl
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp3/IE2F-No-Flavo-Ctrl-dedup-RV-FJ616285.1.bw
+longLabel Exp3 96h D-NT2 IE2F Ctrl
+shortLabel Exp3 96h D-NT2 IE2F Ctrl
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track IE2F-dTAG
+compositeTrack on
+type bigWig 0 1000
+priority 7
+visibility full
+shortLabel Exp3 96h D-NT2 IE2F dTAG
+longLabel IE2F dTAG
+	 
+track IE2F-dTAG_FW
+parent IE2F-dTAG
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp3/IE2F-No-Flavo-dTAG-dedup-FW-FJ616285.1.bw
+longLabel Exp3 96h D-NT2 IE2F dTAG
+shortLabel Exp3 96h D-NT2 IE2F dTAG
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track IE2F-dTAG_RV
+parent IE2F-dTAG
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp3/IE2F-No-Flavo-dTAG-dedup-RV-FJ616285.1.bw
+longLabel Exp3 96h D-NT2 IE2F dTAG
+shortLabel Exp3 96h D-NT2 IE2F dTAG
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track IE2F-Ctrl-Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 7
+visibility full
+shortLabel Exp3 96h D-NT2 IE2F Ctrl Flavo
+longLabel IE2F Ctrl Flavo
+	 
+track IE2F-Ctrl-Flavo_FW
+parent IE2F-Ctrl-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp3/IE2F-Flavo-Ctrl-dedup-FW-FJ616285.1.bw
+longLabel Exp3 96h D-NT2 IE2F Ctrl Flavo
+shortLabel Exp3 96h D-NT2 IE2F Ctrl Flavo
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track IE2F-Ctrl-Flavo_RV
+parent IE2F-Ctrl-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp3/IE2F-Flavo-Ctrl-dedup-RV-FJ616285.1.bw
+longLabel Exp3 96h D-NT2 IE2F Ctrl Flavo
+shortLabel Exp3 96h D-NT2 IE2F Ctrl Flavo
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track IE2F-dTAG-Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 7
+visibility full
+shortLabel Exp3 96h D-NT2 IE2F dTAG Flavo
+longLabel IE2F dTAG Flavo
+	 
+track IE2F-dTAG-Flavo_FW
+parent IE2F-dTAG-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp3/IE2F-Flavo-dTAG-dedup-FW-FJ616285.1.bw
+longLabel Exp3 96h D-NT2 IE2F dTAG Flavo
+shortLabel Exp3 96h D-NT2 IE2F dTAG Flavo
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track IE2F-dTAG-Flavo_RV
+parent IE2F-dTAG-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp3/IE2F-Flavo-dTAG-dedup-RV-FJ616285.1.bw
+longLabel Exp3 96h D-NT2 IE2F dTAG Flavo
+shortLabel Exp3 96h D-NT2 IE2F dTAG Flavo
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+
+track UL87HF-Ctrl
+compositeTrack on
+type bigWig 0 1000
+priority 7
+visibility full
+shortLabel Exp3 96h D-NT2 UL87HF Ctrl
+longLabel UL87HF Ctrl
+	 
+track UL87HF-Ctrl_FW
+parent UL87HF-Ctrl
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp3/UL87HF-No-Flavo-Ctrl-dedup-FW-FJ616285.1.bw
+longLabel Exp3 96h D-NT2 UL87HF Ctrl
+shortLabel Exp3 96h D-NT2 UL87HF Ctrl
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track UL87HF-Ctrl_RV
+parent UL87HF-Ctrl
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp3/UL87HF-No-Flavo-Ctrl-dedup-RV-FJ616285.1.bw
+longLabel Exp3 96h D-NT2 UL87HF Ctrl
+shortLabel Exp3 96h D-NT2 UL87HF Ctrl
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track UL87HF-dTAG
+compositeTrack on
+type bigWig 0 1000
+priority 7
+visibility full
+shortLabel Exp3 96h D-NT2 UL87HF dTAG
+longLabel UL87HF dTAG
+	 
+track UL87HF-dTAG_FW
+parent UL87HF-dTAG
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp3/UL87HF-No-Flavo-dTAG-dedup-FW-FJ616285.1.bw
+longLabel Exp3 96h D-NT2 UL87HF dTAG
+shortLabel Exp3 96h D-NT2 UL87HF dTAG
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track UL87HF-dTAG_RV
+parent UL87HF-dTAG
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp3/UL87HF-No-Flavo-dTAG-dedup-RV-FJ616285.1.bw
+longLabel Exp3 96h D-NT2 UL87HF dTAG
+shortLabel Exp3 96h D-NT2 UL87HF dTAG
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track UL87HF-Ctrl-Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 8
+visibility full
+shortLabel Exp3 96h D-NT2 UL87HF Ctrl Flavo
+longLabel UL87HF Ctrl Flavo
+	 
+track UL87HF-Ctrl-Flavo_FW
+parent UL87HF-Ctrl-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp3/UL87HF-Flavo-Ctrl-dedup-FW-FJ616285.1.bw
+longLabel Exp3 96h D-NT2 UL87HF Ctrl Flavo
+shortLabel Exp3 96h D-NT2 UL87HF Ctrl Flavo
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track UL87HF-Ctrl-Flavo_RV
+parent UL87HF-Ctrl-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp3/UL87HF-Flavo-Ctrl-dedup-RV-FJ616285.1.bw
+longLabel Exp3 96h D-NT2 UL87HF Ctrl Flavo
+shortLabel Exp3 96h D-NT2 UL87HF Ctrl Flavo
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track UL87HF-dTAG-Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 8
+visibility full
+shortLabel Exp3 96h D-NT2 UL87HF dTAG Flavo
+longLabel UL87HF dTAG Flavo
+	 
+track UL87HF-dTAG-Flavo_FW
+parent UL87HF-dTAG-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp3/UL87HF-Flavo-dTAG-dedup-FW-FJ616285.1.bw
+longLabel Exp3 96h D-NT2 UL87HF dTAG Flavo
+shortLabel Exp3 96h D-NT2 UL87HF dTAG Flavo
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track UL87HF-dTAG-Flavo_RV
+parent UL87HF-dTAG-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp3/UL87HF-Flavo-dTAG-dedup-RV-FJ616285.1.bw
+longLabel Exp3 96h D-NT2 UL87HF dTAG Flavo
+shortLabel Exp3 96h D-NT2 UL87HF dTAG Flavo
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track IE2F-Ctrl-5
+compositeTrack on
+type bigWig 0 1000
+priority 8
+visibility full
+shortLabel Exp3 96h D-NT2 IE2F Ctrl 5 
+longLabel IE2F Ctrl 5
+	 
+track IE2F-Ctrl-5_FW
+parent IE2F-Ctrl-5
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp3-5prime/IE2F-No-Flavo-Ctrl-dedup-FW-5-FJ616285.1.bw
+longLabel Exp3 96h D-NT2 IE2F Ctrl 5 Prime
+shortLabel Exp3 96h D-NT2 IE2F Ctrl 5 Prime
+negateValues off
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track IE2F-Ctrl-5_RV
+parent IE2F-Ctrl-5
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp3-5prime/IE2F-No-Flavo-Ctrl-dedup-RV-5-FJ616285.1.bw
+longLabel Exp3 96h D-NT2 IE2F Ctrl 5 Prime
+shortLabel Exp3 96h D-NT2 IE2F Ctrl 5 Prime
+negateValues on
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track IE2F-dTAG-5
+compositeTrack on
+type bigWig 0 1000
+priority 8
+visibility full
+shortLabel Exp3 96h D-NT2 IE2F dTAG 5 
+longLabel IE2F dTAG 5
+	 
+track IE2F-dTAG-5_FW
+parent IE2F-dTAG-5
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp3-5prime/IE2F-No-Flavo-dTAG-dedup-FW-5-FJ616285.1.bw
+longLabel Exp3 96h D-NT2 IE2F dTAG 5 Prime
+shortLabel Exp3 96h D-NT2 IE2F dTAG 5 Prime
+negateValues off
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track IE2F-dTAG-5_RV
+parent IE2F-dTAG-5
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp3-5prime/IE2F-No-Flavo-dTAG-dedup-RV-5-FJ616285.1.bw
+longLabel Exp3 96h D-NT2 IE2F dTAG 5 Prime
+shortLabel Exp3 96h D-NT2 IE2F dTAG 5 Prime
+negateValues on
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track IE2F-Ctrl-Flavo-5
+compositeTrack on
+type bigWig 0 1000
+priority 8
+visibility full
+shortLabel Exp3 96h D-NT2 IE2F Ctrl Flavo 5 
+longLabel IE2F Ctrl Flavo 5
+	 
+track IE2F-Ctrl-Flavo-5_FW
+parent IE2F-Ctrl-Flavo-5
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp3-5prime/IE2F-Flavo-Ctrl-dedup-FW-5-FJ616285.1.bw
+longLabel Exp3 96h D-NT2 IE2F Ctrl Flavo 5 Prime
+shortLabel Exp3 96h D-NT2 IE2F Ctrl Flavo 5 Prime
+negateValues off
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track IE2F-Ctrl-Flavo-5_RV
+parent IE2F-Ctrl-Flavo-5
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp3-5prime/IE2F-Flavo-Ctrl-dedup-RV-5-FJ616285.1.bw
+longLabel Exp3 96h D-NT2 IE2F Ctrl Flavo 5 Prime
+shortLabel Exp3 96h D-NT2 IE2F Ctrl Flavo 5 Prime
+negateValues on
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track IE2F-dTAG-Flavo-5
+compositeTrack on
+type bigWig 0 1000
+priority 8
+visibility full
+shortLabel Exp3 96h D-NT2 IE2F dTAG Flavo 5 
+longLabel IE2F dTAG Flavo 5
+	 
+track IE2F-dTAG-Flavo-5_FW
+parent IE2F-dTAG-Flavo-5
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp3-5prime/IE2F-Flavo-dTAG-dedup-FW-5-FJ616285.1.bw
+longLabel Exp3 96h D-NT2 IE2F dTAG Flavo 5 Prime
+shortLabel Exp3 96h D-NT2 IE2F dTAG Flavo 5 Prime
+negateValues off
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track IE2F-dTAG-Flavo-5_RV
+parent IE2F-dTAG-Flavo-5
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp3-5prime/IE2F-Flavo-dTAG-dedup-RV-5-FJ616285.1.bw
+longLabel Exp3 96h D-NT2 IE2F dTAG Flavo 5 Prime
+shortLabel Exp3 96h D-NT2 IE2F dTAG Flavo 5 Prime
+negateValues on
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+
+track UL87HF-Ctrl-5
+compositeTrack on
+type bigWig 0 1000
+priority 8
+visibility full
+shortLabel Exp3 96h D-NT2 UL87HF Ctrl 5
+longLabel UL87HF Ctrl 5
+	 
+track UL87HF-Ctrl-5_FW
+parent UL87HF-Ctrl-5
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp3-5prime/UL87HF-No-Flavo-Ctrl-dedup-FW-5-FJ616285.1.bw
+longLabel Exp3 96h D-NT2 UL87HF Ctrl 5 Prime
+shortLabel Exp3 96h D-NT2 UL87HF Ctrl 5 Prime
+negateValues off
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track UL87HF-Ctrl-5_RV
+parent UL87HF-Ctrl-5
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp3-5prime/UL87HF-No-Flavo-Ctrl-dedup-RV-5-FJ616285.1.bw
+longLabel Exp3 96h D-NT2 UL87HF Ctrl 5 Prime
+shortLabel Exp3 96h D-NT2 UL87HF Ctrl 5 Prime
+negateValues on
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track UL87HF-dTAG-5
+compositeTrack on
+type bigWig 0 1000
+priority 8
+visibility full
+shortLabel Exp3 96h D-NT2 UL87HF dTAG 5
+longLabel UL87HF dTAG 5
+	 
+track UL87HF-dTAG-5_FW
+parent UL87HF-dTAG-5
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp3-5prime/UL87HF-No-Flavo-dTAG-dedup-FW-5-FJ616285.1.bw
+longLabel Exp3 96h D-NT2 UL87HF dTAG 5 Prime
+shortLabel Exp3 96h D-NT2 UL87HF dTAG 5 Prime
+negateValues off
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track UL87HF-dTAG-5_RV
+parent UL87HF-dTAG-5
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp3-5prime/UL87HF-No-Flavo-dTAG-dedup-RV-5-FJ616285.1.bw
+longLabel Exp3 96h D-NT2 UL87HF dTAG 5 Prime
+shortLabel Exp3 96h D-NT2 UL87HF dTAG 5 Prime
+negateValues on
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track UL87HF-Ctrl-Flavo-5
+compositeTrack on
+type bigWig 0 1000
+priority 8
+visibility full
+shortLabel Exp3 96h D-NT2 UL87HF Ctrl Flavo 5 
+longLabel UL87HF Ctrl Flavo 5
+	 
+track UL87HF-Ctrl-Flavo-5_FW
+parent UL87HF-Ctrl-Flavo-5
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp3-5prime/UL87HF-Flavo-Ctrl-dedup-FW-5-FJ616285.1.bw
+longLabel Exp3 96h D-NT2 UL87HF Ctrl Flavo 5 Prime
+shortLabel Exp3 96h D-NT2 UL87HF Ctrl Flavo 5 Prime
+negateValues off
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track UL87HF-Ctrl-Flavo-5_RV
+parent UL87HF-Ctrl-Flavo-5
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp3-5prime/UL87HF-Flavo-Ctrl-dedup-RV-5-FJ616285.1.bw
+longLabel Exp3 96h D-NT2 UL87HF Ctrl Flavo 5 Prime
+shortLabel Exp3 96h D-NT2 UL87HF Ctrl Flavo 5 Prime
+negateValues on
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track UL87HF-dTAG-Flavo-5
+compositeTrack on
+type bigWig 0 1000
+priority 8
+visibility full
+shortLabel Exp3 96h D-NT2 UL87HF dTAG Flavo 5 
+longLabel UL87HF dTAG Flavo 5
+	 
+track UL87HF-dTAG-Flavo-5_FW
+parent UL87HF-dTAG-Flavo-5
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp3-5prime/UL87HF-Flavo-dTAG-dedup-FW-5-FJ616285.1.bw
+longLabel Exp3 96h D-NT2 UL87HF dTAG Flavo 5 Prime
+shortLabel Exp3 96h D-NT2 UL87HF dTAG Flavo 5 Prime
+negateValues off
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track UL87HF-dTAG-Flavo-5_RV
+parent UL87HF-dTAG-Flavo-5
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp3-5prime/UL87HF-Flavo-dTAG-dedup-RV-5-FJ616285.1.bw
+longLabel Exp3 96h D-NT2 UL87HF dTAG Flavo 5 Prime
+shortLabel Exp3 96h D-NT2 UL87HF dTAG Flavo 5 Prime
+negateValues on
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+
 
         ##################################################
 	# GSE41605: HCMV ORFs
