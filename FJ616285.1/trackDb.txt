@@ -1110,6 +1110,462 @@ autoScale on
 maxHeightPixels 128:128:16
 
 #############
+	 
+track Mock1
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel RNASeq-Mock1
+longLabel RNASeq-Mock1
+	 
+track Mock1_FW
+parent Mock1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/RNASeq/Mock1.FW.bw
+longLabel RNASeq Mock 1
+shortLabel RNASeq Mock 1
+negateValues off
+color 0,128,0
+altColor 0,128,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track Mock1_RV
+parent Mock1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/RNASeq/Mock1.RV.bw
+longLabel RNASeq Mock 1
+shortLabel RNASeq Mock 1
+negateValues on
+color 0,128,0
+altColor 0,128,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############	
+
+track Mock2
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel RNASeq-Mock2
+longLabel RNASeq-Mock2
+	 
+track Mock2_FW
+parent Mock2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/RNASeq/Mock2.FW.bw
+longLabel RNASeq Mock 2
+shortLabel RNASeq Mock 2
+negateValues off
+color 0,128,0
+altColor 0,128,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track Mock2_RV
+parent Mock2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/RNASeq/Mock2.RV.bw
+longLabel RNASeq Mock 2
+shortLabel RNASeq Mock 2
+negateValues on
+color 0,128,0
+altColor 0,128,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############	
+
+track WT1
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel RNASeq-WT1
+longLabel RNASeq-WT1
+	 
+track WT1_FW
+parent WT1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/RNASeq/WT1.FW.bw
+longLabel RNASeq WT 1
+shortLabel RNASeq WT 1
+negateValues off
+color 0,128,0
+altColor 0,128,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track WT1_RV
+parent WT1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/RNASeq/WT1.RV.bw
+longLabel RNASeq WT 1
+shortLabel RNASeq WT 1
+negateValues on
+color 0,128,0
+altColor 0,128,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############	
+
+track WT2
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel RNASeq-WT2
+longLabel RNASeq-WT2
+	 
+track WT2_FW
+parent WT2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/RNASeq/WT2.FW.bw
+longLabel RNASeq WT 2
+shortLabel RNASeq WT 2
+negateValues off
+color 0,128,0
+altColor 0,128,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track WT2_RV
+parent WT2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/RNASeq/WT2.RV.bw
+longLabel RNASeq WT 2
+shortLabel RNASeq WT 2
+negateValues on
+color 0,128,0
+altColor 0,128,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############	
+
+track WT-PFA1
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel RNASeq-WT-PFA1
+longLabel RNASeq-WT-PRA1
+	 
+track WT-PFA1_FW
+parent WT-PFA1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/RNASeq/WTPFA1.FW.bw
+longLabel RNASeq WT PFA 1
+shortLabel RNASeq WT PFA 1
+negateValues off
+color 0,128,0
+altColor 0,128,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track WT-PFA1_RV
+parent WT-PFA1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/RNASeq/WTPFA1.RV.bw
+longLabel RNASeq WT PFA 1
+shortLabel RNASeq WT PFA 1
+negateValues on
+color 0,128,0
+altColor 0,128,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+
+track WT-PFA2
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel RNASeq-WT-PFA2
+longLabel RNASeq-WT-PRA2
+	 
+track WT-PFA2_FW
+parent WT-PFA2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/RNASeq/WTPFA2.FW.bw
+longLabel RNASeq WT PFA 2
+shortLabel RNASeq WT PFA 2
+negateValues off
+color 0,128,0
+altColor 0,128,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track WT-PFA2_RV
+parent WT-PFA2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/RNASeq/WTPFA2.RV.bw
+longLabel RNASeq WT PFA 2
+shortLabel RNASeq WT PFA 2
+negateValues on
+color 0,128,0
+altColor 0,128,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############		 
+
+track N1-1
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel RNASeq-N1-1
+longLabel RNASeq-N1-1
+	 
+track N1-1_FW
+parent N1-1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/RNASeq/N1-1.FW.bw
+longLabel RNASeq N1 1
+shortLabel RNASeq N1 1
+negateValues off
+color 0,128,0
+altColor 0,128,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track N1-1_RV
+parent N1-1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/RNASeq/N1-1.RV.bw
+longLabel RNASeq N1 1
+shortLabel RNASeq N1 1
+negateValues on
+color 0,128,0
+altColor 0,128,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############	 
+
+track N1-2
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel RNASeq-N1-2
+longLabel RNASeq-N1-2
+	 
+track N1-2_FW
+parent N1-2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/RNASeq/N1-2.FW.bw
+longLabel RNASeq N1 2
+shortLabel RNASeq N1 2
+negateValues off
+color 0,128,0
+altColor 0,128,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track N1-2_RV
+parent N1-2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/RNASeq/N1-2.RV.bw
+longLabel RNASeq N1 2
+shortLabel RNASeq N1 2
+negateValues on
+color 0,128,0
+altColor 0,128,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+
+track NB-1
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel RNASeq-NB-1
+longLabel RNASeq-NB-1
+	 
+track NB-1_FW
+parent NB-1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/RNASeq/NB1.FW.bw
+longLabel RNASeq NB 1
+shortLabel RNASeq NB 1
+negateValues off
+color 0,128,0
+altColor 0,128,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track NB-1_RV
+parent NB-1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/RNASeq/NB1.RV.bw
+longLabel RNASeq NB 1
+shortLabel RNASeq NB 1
+negateValues on
+color 0,128,0
+altColor 0,128,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+
+track NB-2
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel RNASeq-NB-2
+longLabel RNASeq-NB-2
+	 
+track NB-2_FW
+parent NB-2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/RNASeq/NB2.FW.bw
+longLabel RNASeq NB 2
+shortLabel RNASeq NB 2
+negateValues off
+color 0,128,0
+altColor 0,128,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track NB-2_RV
+parent NB-2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/RNASeq/NB2.RV.bw
+longLabel RNASeq NB 2
+shortLabel RNASeq NB 2
+negateValues on
+color 0,128,0
+altColor 0,128,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+
+track CK-1
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel RNASeq-CK-1
+longLabel RNASeq-CK-1
+	 
+track CK-1_FW
+parent CK-1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/RNASeq/CK1.FW.bw
+longLabel RNASeq CK 1
+shortLabel RNASeq CK 1
+negateValues off
+color 0,128,0
+altColor 0,128,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track CK-1_RV
+parent CK-1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/RNASeq/CK1.RV.bw
+longLabel RNASeq CK 1
+shortLabel RNASeq CK 1
+negateValues on
+color 0,128,0
+altColor 0,128,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+
+track CK-2
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel RNASeq-CK-2
+longLabel RNASeq-CK-2
+	 
+track CK-2_FW
+parent CK-2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/RNASeq/CK2.FW.bw
+longLabel RNASeq CK 2
+shortLabel RNASeq CK 2
+negateValues off
+color 0,128,0
+altColor 0,128,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track CK-2_RV
+parent CK-2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/RNASeq/CK2.RV.bw
+longLabel RNASeq CK 2
+shortLabel RNASeq CK 2
+negateValues on
+color 0,128,0
+altColor 0,128,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
 
 
         ##################################################
