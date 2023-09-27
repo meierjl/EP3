@@ -2226,7 +2226,7 @@ track CKExp4-5_FW
 parent CKExp4-5
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp4CK-dedup-FW-5-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp4/CK-dedup-FW-5-FJ616285.1.bw
 longLabel Exp4 96h D-NT2 CK 5 Prime
 shortLabel Exp4 96h D-NT2 CK 5 Prime
 negateValues off
