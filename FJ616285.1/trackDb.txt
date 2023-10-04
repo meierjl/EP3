@@ -3289,7 +3289,7 @@ track Exp6-UL87HF-dTAG_FW
 parent Exp6-UL87HF-dTAG
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp6/D-NT2cellsTowneUL87HF96hpiNoFlavodTAG-dedup-RV-5-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp6/D-NT2cellsTowneUL87HF96hpiNoFlavodTAG-dedup-FW-FJ616285.1.bw
 longLabel Exp6 96h D-NT2 UL87HF dTAG
 shortLabel Exp6 96h D-NT2 UL87HF dTAG
 negateValues off
