@@ -3999,6 +3999,67 @@ maxHeightPixels 128:128:16
 
 #############
 
+track PolII-DFF-Seq-Rep1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/DFF-Seq/Pol-II-Rep1-virus.bw
+longLabel DFF-Seq Pol II Rep1
+shortLabel DFF-Seq Pol II Rep1
+negateValues off
+color 54,22,246
+altColor 54,22,246
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+
+track PolII-DFF-Seq-Rep2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/DFF-Seq/Pol-II-Rep2-virus.bw
+longLabel DFF-Seq Pol II Rep2
+shortLabel DFF-Seq Pol II Rep2
+negateValues off
+color 54,22,246
+altColor 54,22,246
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+
+track H3K4me3-DFF-Seq-Rep1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/DFF-Seq/H3K4me3-Rep1-virus.bw
+longLabel DFF-Seq H3K4me3 Rep1
+shortLabel DFF-Seq H3K4me3 Rep1
+negateValues off
+color 54,22,246
+altColor 54,22,246
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+
+track H3K4me3-DFF-Seq-Rep2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/DFF-Seq/H3K4me3-Rep2-virus.bw
+longLabel DFF-Seq H3K4me3 Rep2
+shortLabel DFF-Seq H3K4me3 Rep2
+negateValues off
+color 54,22,246
+altColor 54,22,246
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+
+
 
         ##################################################
 	# GSE41605: HCMV ORFs
