@@ -4063,8 +4063,8 @@ track PolII-DFF-Seq-40-65-Rep1
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/DFF-Seq/Pol-II-Rep1-40-65-virus.bw
-longLabel DFF-Seq Pol II 40-65 Rep1
-shortLabel DFF-Seq Pol II 40-65 Rep1
+longLabel DFF-Seq Pol II Rep1 40-65 
+shortLabel DFF-Seq Pol II Rep1 40-65
 negateValues off
 color 0,0,0
 altColor 0,0,0
