@@ -4006,8 +4006,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/maste
 longLabel DFF-Seq Pol II Rep1
 shortLabel DFF-Seq Pol II Rep1
 negateValues off
-color 255,0,255
-altColor 255,0,255
+color 191,27,43
+altColor 191,27,43
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -4021,8 +4021,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/maste
 longLabel DFF-Seq Pol II Rep2
 shortLabel DFF-Seq Pol II Rep2
 negateValues off
-color 255,0,255
-altColor 255,0,255
+color 191,27,43
+altColor 191,27,43
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
