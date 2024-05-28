@@ -4119,6 +4119,35 @@ maxHeightPixels 128:128:16
 	 
 #############	
 
+track TBP-DFF-Seq-Rep1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/DFF-Seq/TBP-towne-Rep1.bw
+longLabel DFF-Seq TBP Rep1
+shortLabel DFF-Seq TBP Rep1
+negateValues off
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+
+track TBP-DFF-Seq-Rep2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/DFF-Seq/TBP-towne-Rep2.bw
+longLabel DFF-Seq TBP Rep2
+shortLabel DFF-Seq TBP Rep2
+negateValues off
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
 
         ##################################################
 	# GSE41605: HCMV ORFs
