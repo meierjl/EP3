@@ -3543,6 +3543,45 @@ maxHeightPixels 128:128:16
 
 #############	
 
+track DMSO_WT
+compositeTrack on
+type bigWig 0 1000
+priority 9
+visibility full
+shortLabel 96h HFF WT Ctrl
+longLabel 96h HFF WT Ctrl
+	 
+track DMSO_WT
+parent DMSO_WT
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/HFF-PRO-Seq/2018-02-28-DMSO-cmvWT-Ctrl-FJ616285.1-Norm-FW.bw
+longLabel HFF WT 
+shortLabel HFF WT
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track DMSO_WT
+parent DMSO_WT
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/HFF-PRO-Seq/2018-02-28-DMSO-cmvWT-Ctrl-FJ616285.1-Norm-RV.bw
+longLabel HFF WT 
+shortLabel HFF WT 
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	
+#############
+
+
 track Mock1
 compositeTrack on
 type bigWig 0 1000
