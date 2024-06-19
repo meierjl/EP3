@@ -3543,7 +3543,7 @@ maxHeightPixels 128:128:16
 
 #############	
 
-track DMSO_WT
+track HFF_DMSO_WT
 compositeTrack on
 type bigWig 0 1000
 priority 9
@@ -3551,8 +3551,8 @@ visibility full
 shortLabel 96h HFF WT Ctrl
 longLabel 96h HFF WT Ctrl
 	 
-track DMSO_WT
-parent DMSO_WT
+track HFF_DMSO_WT
+parent HFF_DMSO_WT
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/HFF-PRO-Seq/2018-02-28-DMSO-cmvWT-Ctrl-FJ616285.1-Norm-FW.bw
@@ -3565,8 +3565,8 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 	 
-track DMSO_WT
-parent DMSO_WT
+track HFF_DMSO_WT
+parent HFF_DMSO_WT
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/HFF-PRO-Seq/2018-02-28-DMSO-cmvWT-Ctrl-FJ616285.1-Norm-RV.bw
@@ -3581,7 +3581,7 @@ maxHeightPixels 128:128:16
 	
 #############
 
-track Flavo_WT
+track HFF_Flavo_WT
 compositeTrack on
 type bigWig 0 1000
 priority 9
@@ -3589,8 +3589,8 @@ visibility full
 shortLabel 96h HFF WT Flavo
 longLabel 96h HFF WT Flavo
 	 
-track Flavo_WT
-parent Flavo_WT
+track HFF_Flavo_WT
+parent HFF_Flavo_WT
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/HFF-PRO-Seq/2018-02-28-Flavo-cmvWT-Ctrl-FJ616285.1-Norm-FW.bw
@@ -3603,8 +3603,8 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 	 
-track Flavo_WT
-parent Flavo_WT
+track HFF_Flavo_WT
+parent HFF_Flavo_WT
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/HFF-PRO-Seq/2018-02-28-Flavo-cmvWT-Ctrl-FJ616285.1-Norm-RV.bw
