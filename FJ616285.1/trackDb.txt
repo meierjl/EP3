@@ -4501,7 +4501,7 @@ maxHeightPixels 128:128:16
 track Exp4-D-NT2-Cross-Linking-H3K4me3-DFF-Seq-Rep1
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/DFF-Seq/ Exp4-D-NT2-Fix-H3K4me3-Rep1-virus.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/DFF-Seq/Exp4-D-NT2-Fix-H3K4me3-Rep1-virus.bw
 longLabel DFF-Seq Exp4 D-NT2 Cross-Linking H3K4me3 Rep1
 shortLabel DFF-Seq Exp4 D-NT2 Cross-Linking H3K4me3 Rep1
 negateValues off
@@ -4516,7 +4516,7 @@ maxHeightPixels 128:128:16
 track Exp4-D-NT2-Cross-Linking-H3K4me3-DFF-Seq-Rep2
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/DFF-Seq/ Exp4-D-NT2-Fix-H3K4me3-Rep2-virus.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/DFF-Seq/Exp4-D-NT2-Fix-H3K4me3-Rep2-virus.bw
 longLabel DFF-Seq Exp4 D-NT2 Cross-Linking H3K4me3 Rep2
 shortLabel DFF-Seq Exp4 D-NT2 Cross-Linking H3K4me3 Rep2
 negateValues off
