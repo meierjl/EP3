@@ -2526,7 +2526,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 9
 visibility full
-shortLabel Exp5 96h HFF NB1 5 Prime
+shortLabel Exp5 96h HFF NB BAC1 5 Prime
 longLabel HFFNB1Exp55prime
 	 
 track HFFNB1Exp55prime_FW
@@ -2534,8 +2534,8 @@ parent HFFNB1Exp55prime
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp5/HFF_Towne_N1_Flavo-dedup-FW-5-FJ616285.1.bw
-longLabel Exp5 96h HFF NB1 Flavo 5 Prime
-shortLabel Exp5 96h HFF NB1 Flavo 5 Prime
+longLabel Exp5 96h HFF NB BAC1 Flavo 5 Prime
+shortLabel Exp5 96h HFF NB BAC1 Flavo 5 Prime
 negateValues off
 color 34,34,255
 altColor 34,34,255
@@ -2548,8 +2548,8 @@ parent HFFNB1Exp55prime
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp5/HFF_Towne_N1_Flavo-dedup-RV-5-FJ616285.1.bw
-longLabel Exp5 96h HFF NB1 Flavo 5 Prime
-shortLabel Exp5 96h HFF NB1 Flavo 5 Prime
+longLabel Exp5 96h HFF NB BAC1 Flavo 5 Prime
+shortLabel Exp5 96h HFF NB BAC1 Flavo 5 Prime
 negateValues on
 color 34,34,255
 altColor 34,34,255
@@ -2564,7 +2564,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 9
 visibility full
-shortLabel Exp5 96h HFF NB2 5 Prime
+shortLabel Exp5 96h HFF NB BAC2 5 Prime
 longLabel HFFNB2Exp55prime
 	 
 track HFFNB2Exp55prime_FW
@@ -2572,8 +2572,8 @@ parent HFFNB2Exp55prime
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp5/HFF_Towne_N2_Flavo-dedup-FW-5-FJ616285.1.bw
-longLabel Exp5 96h HFF NB2 Flavo 5 Prime
-shortLabel Exp5 96h HFF NB2 Flavo 5 Prime
+longLabel Exp5 96h HFF NB BAC2 Flavo 5 Prime
+shortLabel Exp5 96h HFF NB BAC2 Flavo 5 Prime
 negateValues off
 color 34,34,255
 altColor 34,34,255
@@ -2586,8 +2586,8 @@ parent HFFNB2Exp55prime
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp5/HFF_Towne_N2_Flavo-dedup-RV-5-FJ616285.1.bw
-longLabel Exp5 96h HFF NB2 Flavo 5 Prime
-shortLabel Exp5 96h HFF NB2 Flavo 5 Prime
+longLabel Exp5 96h HFF NB BAC2 Flavo 5 Prime
+shortLabel Exp5 96h HFF NB BAC2 Flavo 5 Prime
 negateValues on
 color 34,34,255
 altColor 34,34,255
@@ -2641,7 +2641,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 9
 visibility full
-shortLabel Exp5 96h DNT2 NB1 5 Prime
+shortLabel Exp5 96h DNT2 NB BAC1 5 Prime
 longLabel DNT2N1Exp55prime
 	 
 track DNT2NB1Exp55prime_FW
@@ -2649,8 +2649,8 @@ parent DNT2NB1Exp55prime
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp5/D-NT2_Towne_N1_Flavo-dedup-FW-5-FJ616285.1.bw
-longLabel Exp5 96h DNT2 NB1 Flavo 5 Prime
-shortLabel Exp5 96h DNT2 NB1 Flavo 5 Prime
+longLabel Exp5 96h DNT2 NB BAC1 Flavo 5 Prime
+shortLabel Exp5 96h DNT2 NB BAC1 Flavo 5 Prime
 negateValues off
 color 34,34,255
 altColor 34,34,255
@@ -2663,8 +2663,8 @@ parent DNT2NB1Exp55prime
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp5/D-NT2_Towne_N1_Flavo-dedup-RV-5-FJ616285.1.bw
-longLabel Exp5 96h DNT2 NB1 Flavo 5 Prime
-shortLabel Exp5 96h DNT2 NB1 Flavo 5 Prime
+longLabel Exp5 96h DNT2 NB BAC1 Flavo 5 Prime
+shortLabel Exp5 96h DNT2 NB BAC1 Flavo 5 Prime
 negateValues on
 color 34,34,255
 altColor 34,34,255
@@ -2679,7 +2679,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 9
 visibility full
-shortLabel Exp5 96h DNT2 NB2 5 Prime
+shortLabel Exp5 96h DNT2 NB BAC2 5 Prime
 longLabel DNT2NB2Exp55prime
 	 
 track DNT2NB2Exp55prime_FW
@@ -2687,8 +2687,8 @@ parent DNT2NB2Exp55prime
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp5/D-NT2_Towne_N2_Flavo-dedup-FW-5-FJ616285.1.bw
-longLabel Exp5 96h DNT2 NB2 Flavo 5 Prime
-shortLabel Exp5 96h DNT2 NB2 Flavo 5 Prime
+longLabel Exp5 96h DNT2 NB BAC2 Flavo 5 Prime
+shortLabel Exp5 96h DNT2 NB BAC2 Flavo 5 Prime
 negateValues off
 color 34,34,255
 altColor 34,34,255
@@ -2701,8 +2701,8 @@ parent DNT2NB2Exp55prime
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp5/D-NT2_Towne_N2_Flavo-dedup-RV-5-FJ616285.1.bw
-longLabel Exp5 96h DNT2 NB2 Flavo 5 Prime
-shortLabel Exp5 96h DNT2 NB2 Flavo 5 Prime
+longLabel Exp5 96h DNT2 NB BAC2 Flavo 5 Prime
+shortLabel Exp5 96h DNT2 NB BAC2 Flavo 5 Prime
 negateValues on
 color 34,34,255
 altColor 34,34,255
@@ -2756,7 +2756,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 10
 visibility full
-shortLabel Exp5 96h HFF NB1
+shortLabel Exp5 96h HFF NB BAC1
 longLabel HFFNB1Exp5
 	 
 track HFFNB1Exp5_FW
@@ -2764,8 +2764,8 @@ parent HFFNB1Exp5
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp5/HFF_Towne_N1_Flavo-dedup-FW-FJ616285.1.bw
-longLabel Exp5 96h HFF NB1 Flavo 
-shortLabel Exp5 96h HFF NB1 Flavo 
+longLabel Exp5 96h HFF NB BAC1 Flavo 
+shortLabel Exp5 96h HFF NB BAC1 Flavo 
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -2778,8 +2778,8 @@ parent HFFNB1Exp5
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp5/HFF_Towne_N1_Flavo-dedup-RV-FJ616285.1.bw
-longLabel Exp5 96h HFF NB1 Flavo 
-shortLabel Exp5 96h HFF NB1 Flavo 
+longLabel Exp5 96h HFF NB BAC1 Flavo 
+shortLabel Exp5 96h HFF NB BAC1 Flavo 
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -2794,7 +2794,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 10
 visibility full
-shortLabel Exp5 96h HFF NB2
+shortLabel Exp5 96h HFF NB BAC2
 longLabel HFFNB2Exp5
 	 
 track HFFNB2Exp5_FW
@@ -2802,8 +2802,8 @@ parent HFFNB2Exp5
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp5/HFF_Towne_N2_Flavo-dedup-FW-FJ616285.1.bw
-longLabel Exp5 96h HFF NB2 Flavo 
-shortLabel Exp5 96h HFF NB2 Flavo 
+longLabel Exp5 96h HFF NB BAC2 Flavo 
+shortLabel Exp5 96h HFF NB BAC2 Flavo 
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -2816,8 +2816,8 @@ parent HFFNB2Exp5
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp5/HFF_Towne_N2_Flavo-dedup-RV-FJ616285.1.bw
-longLabel Exp5 96h HFF NB2 Flavo 
-shortLabel Exp5 96h HFF NB2 Flavo 
+longLabel Exp5 96h HFF NB BAC2 Flavo 
+shortLabel Exp5 96h HFF NB BAC2 Flavo 
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -2870,7 +2870,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 10
 visibility full
-shortLabel Exp5 96h DNT2 NB1
+shortLabel Exp5 96h DNT2 NB BAC1
 longLabel DNT2NB1Exp5
 	 
 track DNT2NB1Exp5_FW
@@ -2878,8 +2878,8 @@ parent DNT2NB1Exp5
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp5/D-NT2_Towne_N1_Flavo-dedup-FW-FJ616285.1.bw
-longLabel Exp5 96h DNT2 NB1 Flavo 
-shortLabel Exp5 96h DNT2 NB1 Flavo 
+longLabel Exp5 96h DNT2 NB BAC1 Flavo 
+shortLabel Exp5 96h DNT2 NB BAC1 Flavo 
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -2892,8 +2892,8 @@ parent DNT2NB1Exp5
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp5/D-NT2_Towne_N1_Flavo-dedup-RV-FJ616285.1.bw
-longLabel Exp5 96h DNT2 NB1 Flavo 
-shortLabel Exp5 96h DNT2 NB1 Flavo 
+longLabel Exp5 96h DNT2 NB BAC1 Flavo 
+shortLabel Exp5 96h DNT2 NB BAC1 Flavo 
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -2908,7 +2908,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 10
 visibility full
-shortLabel Exp5 96h DNT2 NB2
+shortLabel Exp5 96h DNT2 NB BAC2
 longLabel DNT2NB2Exp5
 	 
 track DNT2NB2Exp5_FW
@@ -2916,8 +2916,8 @@ parent DNT2NB2Exp5
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp5/D-NT2_Towne_N2_Flavo-dedup-FW-FJ616285.1.bw
-longLabel Exp5 96h DNT2 NB2 Flavo 
-shortLabel Exp5 96h DNT2 NB2 Flavo
+longLabel Exp5 96h DNT2 NB BAC2 Flavo 
+shortLabel Exp5 96h DNT2 NB BAC2 Flavo 
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -2930,8 +2930,8 @@ parent DNT2NB2Exp5
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp5/D-NT2_Towne_N2_Flavo-dedup-RV-FJ616285.1.bw
-longLabel Exp5 96h DNT2 NB2 Flavo
-shortLabel Exp5 96h DNT2 NB2 Flavo 
+longLabel Exp5 96h DNT2 NB BAC2 Flavo 
+shortLabel Exp5 96h DNT2 NB BAC2 Flavo 
 negateValues on
 color 153,58,29
 altColor 153,58,29
