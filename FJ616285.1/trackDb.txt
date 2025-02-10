@@ -2840,8 +2840,8 @@ parent DNT2WTExp5
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp5/D-NT2_Towne_WT_Flavo-dedup-FW-FJ616285.1.bw
-longLabel Exp5 96h D-NT2 WT Flavo Fw
-shortLabel Exp5 96h D-NT2 WT Flavo Fw
+longLabel Exp5 96h D-NT2 WT Flavo 
+shortLabel Exp5 96h D-NT2 WT Flavo 
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -2854,8 +2854,8 @@ parent DNT2WTExp5
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/PRO-SeqExp5/D-NT2_Towne_WT_Flavo-dedup-RV-FJ616285.1.bw
-longLabel Exp5 96h D-NT2 WT Flavo Rv
-shortLabel Exp5 96h D-NT2 WT Flavo RV
+longLabel Exp5 96h D-NT2 WT Flavo 
+shortLabel Exp5 96h D-NT2 WT Flavo 
 negateValues on
 color 153,58,29
 altColor 153,58,29
