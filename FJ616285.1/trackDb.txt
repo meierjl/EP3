@@ -2833,7 +2833,7 @@ type bigWig 0 1000
 priority 10
 visibility full
 shortLabel Exp5 96h D-NT2 WT Flavo 
-longLabel Exp5 96h D-NT2 WT Flavo 
+longLabel DNT2WTExp5 
 	 
 track DNT2WTExp5_FW
 parent DNT2WTExp5
