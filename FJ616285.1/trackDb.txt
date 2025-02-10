@@ -1118,7 +1118,7 @@ type bigWig 0 1000
 priority 5
 visibility full
 shortLabel Exp3 96h D-NT2 IE2F Ctrl 5 Prime
-longLabel IE2F Ctrl 5
+longLabel Exp3 96h D-NT2 IE2F Ctrl 5 Prime
 	 
 track IE2F-Ctrl-5_FW
 parent IE2F-Ctrl-5
@@ -1156,7 +1156,7 @@ type bigWig 0 1000
 priority 5
 visibility full
 shortLabel Exp3 96h D-NT2 IE2F dTAG 5 Prime
-longLabel IE2F dTAG 5
+longLabel Exp3 96h D-NT2 IE2F dTAG 5 Prime
 	 
 track IE2F-dTAG-5_FW
 parent IE2F-dTAG-5
@@ -1194,7 +1194,7 @@ type bigWig 0 1000
 priority 5
 visibility full
 shortLabel Exp3 96h D-NT2 IE2F Ctrl Flavo 5 Prime
-longLabel IE2F Ctrl Flavo 5
+longLabel Exp3 96h D-NT2 IE2F Ctrl Flavo 5 Prime
 	 
 track IE2F-Ctrl-Flavo-5_FW
 parent IE2F-Ctrl-Flavo-5
@@ -1232,7 +1232,7 @@ type bigWig 0 1000
 priority 5
 visibility full
 shortLabel Exp3 96h D-NT2 IE2F dTAG Flavo 5 Prime
-longLabel IE2F dTAG Flavo 5
+longLabel Exp3 96h D-NT2 IE2F dTAG Flavo 5 Prime
 	 
 track IE2F-dTAG-Flavo-5_FW
 parent IE2F-dTAG-Flavo-5
@@ -1270,7 +1270,7 @@ type bigWig 0 1000
 priority 5
 visibility full
 shortLabel Exp3 96h D-NT2 UL87HF Ctrl 5 Prime
-longLabel UL87HF Ctrl 5
+longLabel Exp3 96h D-NT2 UL87HF Ctrl 5 Prime
 	 
 track UL87HF-Ctrl-5_FW
 parent UL87HF-Ctrl-5
@@ -1308,7 +1308,7 @@ type bigWig 0 1000
 priority 5
 visibility full
 shortLabel Exp3 96h D-NT2 UL87HF dTAG 5 Prime
-longLabel UL87HF dTAG 5
+longLabel Exp3 96h D-NT2 UL87HF dTAG 5 Prime
 	 
 track UL87HF-dTAG-5_FW
 parent UL87HF-dTAG-5
@@ -1346,7 +1346,7 @@ type bigWig 0 1000
 priority 5
 visibility full
 shortLabel Exp3 96h D-NT2 UL87HF Ctrl Flavo 5 Prime
-longLabel UL87HF Ctrl Flavo 5
+longLabel Exp3 96h D-NT2 UL87HF Ctrl Flavo 5 Prime
 	 
 track UL87HF-Ctrl-Flavo-5_FW
 parent UL87HF-Ctrl-Flavo-5
@@ -1384,7 +1384,7 @@ type bigWig 0 1000
 priority 5
 visibility full
 shortLabel Exp3 96h D-NT2 UL87HF dTAG Flavo 5 Prime
-longLabel UL87HF dTAG Flavo 5
+longLabel Exp3 96h D-NT2 UL87HF dTAG Flavo 5 Prime
 	 
 track UL87HF-dTAG-Flavo-5_FW
 parent UL87HF-dTAG-Flavo-5
@@ -1422,7 +1422,7 @@ type bigWig 0 1000
 priority 6
 visibility full
 shortLabel Exp3 96h D-NT2 IE2F Ctrl
-longLabel IE2F Ctrl
+longLabel Exp3 96h D-NT2 IE2F Ctrl
 	 
 track IE2F-Ctrl_FW
 parent IE2F-Ctrl
@@ -1460,7 +1460,7 @@ type bigWig 0 1000
 priority 6
 visibility full
 shortLabel Exp3 96h D-NT2 IE2F dTAG
-longLabel IE2F dTAG
+longLabel Exp3 96h D-NT2 IE2F dTAG
 	 
 track IE2F-dTAG_FW
 parent IE2F-dTAG
@@ -1498,7 +1498,7 @@ type bigWig 0 1000
 priority 6
 visibility full
 shortLabel Exp3 96h D-NT2 IE2F Ctrl Flavo
-longLabel IE2F Ctrl Flavo
+longLabel Exp3 96h D-NT2 IE2F Ctrl Flavo
 	 
 track IE2F-Ctrl-Flavo_FW
 parent IE2F-Ctrl-Flavo
@@ -1536,7 +1536,7 @@ type bigWig 0 1000
 priority 6
 visibility full
 shortLabel Exp3 96h D-NT2 IE2F dTAG Flavo
-longLabel IE2F dTAG Flavo
+longLabel Exp3 96h D-NT2 IE2F dTAG Flavo
 	 
 track IE2F-dTAG-Flavo_FW
 parent IE2F-dTAG-Flavo
@@ -1574,7 +1574,7 @@ type bigWig 0 1000
 priority 6
 visibility full
 shortLabel Exp3 96h D-NT2 UL87HF Ctrl
-longLabel UL87HF Ctrl
+longLabel Exp3 96h D-NT2 UL87HF Ctrl 
 	 
 track UL87HF-Ctrl_FW
 parent UL87HF-Ctrl
@@ -1612,7 +1612,7 @@ type bigWig 0 1000
 priority 6
 visibility full
 shortLabel Exp3 96h D-NT2 UL87HF dTAG
-longLabel UL87HF dTAG
+longLabel Exp3 96h D-NT2 UL87HF dTAG
 	 
 track UL87HF-dTAG_FW
 parent UL87HF-dTAG
@@ -1650,7 +1650,7 @@ type bigWig 0 1000
 priority 6
 visibility full
 shortLabel Exp3 96h D-NT2 UL87HF Ctrl Flavo
-longLabel UL87HF Ctrl Flavo
+longLabel Exp3 96h D-NT2 UL87HF Ctrl Flavo
 	 
 track UL87HF-Ctrl-Flavo_FW
 parent UL87HF-Ctrl-Flavo
@@ -1688,7 +1688,7 @@ type bigWig 0 1000
 priority 6
 visibility full
 shortLabel Exp3 96h D-NT2 UL87HF dTAG Flavo
-longLabel UL87HF dTAG Flavo
+longLabel Exp3 96h D-NT2 UL87HF dTAG Flavo
 	 
 track UL87HF-dTAG-Flavo_FW
 parent UL87HF-dTAG-Flavo
@@ -2718,7 +2718,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 10
 visibility full
-shortLabel Exp5 96h HFF WT 
+shortLabel Exp5 96h HFF WT Flavo
 longLabel HFFWTExp5
 	 
 track HFFWTExp5_FW
@@ -2756,7 +2756,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 10
 visibility full
-shortLabel Exp5 96h HFF NB BAC1
+shortLabel Exp5 96h HFF NB BAC1 Flavo
 longLabel HFFNB1Exp5
 	 
 track HFFNB1Exp5_FW
@@ -2794,7 +2794,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 10
 visibility full
-shortLabel Exp5 96h HFF NB BAC2
+shortLabel Exp5 96h HFF NB BAC2 Flavo
 longLabel HFFNB2Exp5
 	 
 track HFFNB2Exp5_FW
@@ -2832,8 +2832,8 @@ compositeTrack on
 type bigWig 0 1000
 priority 10
 visibility full
-shortLabel Exp5 96h D-NT2 WT 
-longLabel DNT2WTExp5
+shortLabel Exp5 96h D-NT2 WT Flavo 
+longLabel Exp5 96h D-NT2 WT Flavo 
 	 
 track DNT2WTExp5_FW
 parent DNT2WTExp5
@@ -2870,7 +2870,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 10
 visibility full
-shortLabel Exp5 96h D-NT2 NB BAC1
+shortLabel Exp5 96h D-NT2 NB BAC1 Flavo
 longLabel DNT2NB1Exp5
 	 
 track DNT2NB1Exp5_FW
@@ -2908,7 +2908,7 @@ compositeTrack on
 type bigWig 0 1000
 priority 10
 visibility full
-shortLabel Exp5 96h D-NT2 NB BAC2
+shortLabel Exp5 96h D-NT2 NB BAC2 Flavo
 longLabel DNT2NB2Exp5
 	 
 track DNT2NB2Exp5_FW
