@@ -23,6 +23,6 @@ Please visit the following site for documentation: https://genome.ucsc.edu/golde
 
 This track hub was compiled by Ming Li and Qiaolin Hu in the lab of Jeff Meier at the University of Iowa.
 
-This track hub contains DFF-Seq, PRO-Seq and RNA-Seq first described in the following manuscript:
+This track hub contains DFF-ChIP Seq, PRO-Seq and RNA-Seq first described in the following manuscript:
 
-Human cytomegalovirus IE2 drives transcription initiation from a select subset of late infection viral promoters by host RNA polymerase II. Ming Li, Christopher B. Ball, Geoffrey Collins, Qiaolin Hu, Donal S. Luse, David H. Price, and Jeffery L. Meier. PLoS Pathog. 2020 Apr 6;16(4):e1008402. PMID: 32251483 DOI: [10.1371/journal.ppat.1008402](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008402)
+Cell Type Differences in Human Cytomegalovirus Transcription and Epigenetic Regulation with Insights into Major Immediate-Early Enhancer-Promoter Control. Qiaolin Hu, Ming Li, Mrutyunjaya Parida, Benjamin M. Spector, Juan F. Santana, Arya Zandvakili, David H. Price, and Jeffery L. Meier.
