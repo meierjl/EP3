@@ -6,7 +6,7 @@ This is a curated selection of existing and new HCMV Towne datasets for viewing 
 
     First go to the UCSC Genome Browser.
     Then, navigate to My Data > Track Hubs.
-    Select the My Hubs tab.
+    Select the Connected Hubs.
     Finally, paste https://raw.githubusercontent.com/meierjl/EP3/master/hub.txt into the URL field.
 
 You should now be able to select the FJ616285.1 genome and view these tracks!
