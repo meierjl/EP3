@@ -4397,7 +4397,7 @@ maxHeightPixels 128:128:16
 track Exp5-HFF-H3.3-DFF-Seq
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/DFF-Seq/ Exp5-HFF-H3.3-virus.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/DFF-Seq/Exp5-HFF-H3.3-virus.bw
 longLabel DFF-Seq Exp5 HFF H3.3
 shortLabel DFF-Seq Exp5 HFF H3.3
 negateValues off
