@@ -4349,6 +4349,96 @@ maxHeightPixels 128:128:16
 	 
 #############	
 
+track Exp5-D-NT2-TBP-DFF-Seq
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/DFF-Seq/Exp5-D-NT2-TBP-virus.bw
+longLabel DFF-Seq Exp5 D-NT2 TBP
+shortLabel DFF-Seq Exp5 D-NT2 TBP
+negateValues off
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############
+
+track Exp5-HFF-TBP-DFF-Seq
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/DFF-Seq/Exp5-HFF-TBP-virus.bw
+longLabel DFF-Seq Exp5 HFF TBP
+shortLabel DFF-Seq Exp5 HFF TBP
+negateValues off
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+	
+track Exp5-D-NT2-H3.3-DFF-Seq
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/DFF-Seq/Exp5-D-NT2-H3.3-virus.bw
+longLabel DFF-Seq Exp5 D-NT2 H3.3
+shortLabel DFF-Seq Exp5 D-NT2 H3.3
+negateValues off
+color 153,0,255
+altColor 153,0,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+	
+track Exp5-HFF-H3.3-DFF-Seq
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/DFF-Seq/ Exp5-HFF-H3.3-virus.bw
+longLabel DFF-Seq Exp5 HFF H3.3
+shortLabel DFF-Seq Exp5 HFF H3.3
+negateValues off
+color 153,0,255
+altColor 153,0,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+	
+track Exp5-D-NT2-H3K4me3-DFF-Seq
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/DFF-Seq/Exp5-D-NT2-H3K4me3-virus.bw
+longLabel DFF-Seq Exp5 D-NT2 H3K4me3 
+shortLabel DFF-Seq Exp5 D-NT2 H3K4me3
+negateValues off
+color 238,142,0
+altColor 238,142,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+	
+track Exp5-HFF-H3K4me3-DFF-Seq
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/EP3/master/FJ616285.1/DFF-Seq/Exp5-HFF-H3K4me3-virus.bw
+longLabel DFF-Seq Exp5 HFF H3K4me3 
+shortLabel DFF-Seq Exp5 HFF H3K4me3
+negateValues off
+color 238,142,0
+altColor 238,142,0
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+
         ##################################################
 	# GSE41605: HCMV ORFs
 	##################################################
